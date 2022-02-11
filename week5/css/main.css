@@ -1,0 +1,24 @@
+
+/* a rule. The brackets are called blocks */
+
+section {
+    padding: 11px;
+    margin: 0 auto;
+    width: 900px;
+    background-color: red; /* backgroun-color = property       red = value */
+    border: 1px solid black;
+}
+
+form {
+    width: 450px;
+    margin-left: 150px;
+
+}
+
+/* Quiz Topics:
+css (inline, external, or embedded/internal) 
+varibles in php 
+loops (for) processing html form using php
+
+
+ */
