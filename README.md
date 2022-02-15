@@ -1,4 +1,4 @@
-# PHPWork
+# PHP Work
 
 Work that I have created that shows the skills I have learned in PHP. Will update this repository weekly on new skills and project thtat I create.
 
