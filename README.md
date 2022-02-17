@@ -10,5 +10,5 @@ Work that I have created that shows the skills I have learned in PHP. Will updat
 
 - Week 6: Started learning funtions in PHP.
 
-- newsad_assigment_01: Created my own contact form that uses PHP to echo the users name, email, phone, remember me checkbox, and 
+- newsad_assigment_01: Created a contact form that using PHP, HTML, and CSS. Used PHP to echo the users name, email, phone, remember me checkbox, and 
                       any other infomation. 
