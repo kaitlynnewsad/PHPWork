@@ -14,3 +14,5 @@ Work that I have created that shows the skills I have learned in PHP. Will updat
                       any other infomation. Scored an 100% on this assignmnet.
                       
  - Week 11: Form that ask for users information (name, phone, and email) and a photo. The photo is stored a folder called imgaes. Then the image and other                    information is added to a table in database called com_pro. Created the database and table in phpadmin in XAMPP. Also, had to connect                       the code to the localhost and used an if statement to see if it was connected or not.
+
+- newsad_assigment_02: Create a form for the user to enter thier favorite by enertinge name, a photo, and description of the anima. Used PHP code to create                         mySQL database/table. Once the user clicks on submit button will the display all data from the database using PHP code.
