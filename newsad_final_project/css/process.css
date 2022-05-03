@@ -1,0 +1,23 @@
+h3{
+    text-align: center;
+    color: #026937;
+}
+
+table 
+{
+border: 2px solid #CEA052;
+border-collapse: collapse;
+width: 500px;
+margin: 0 auto;
+}
+
+th, td
+{
+    border: 2px solid #CEA052;
+    color: #026937;
+}
+
+header{
+    background-color: #026937;
+    height: 150px;
+}
