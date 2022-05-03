@@ -1,6 +1,6 @@
 # HTML, CSS, and PHP Work
 
-Work that I have created that shows the skills I have learned in PHP. Will update this repository weekly on new skills I learn or new projects.
+Work that I have created that shows the skills I have learned in PHP. 
 
 ## Projects Created
 
@@ -17,4 +17,7 @@ Work that I have created that shows the skills I have learned in PHP. Will updat
 
 - newsad_assigment_02: Create a form for the user to enter thier favorite by enertinge name, a photo, and description of the anima. Used PHP code to create                 mySQL database/table. Once the user clicks on submit button will the display all data from the database using PHP code.
                        Scored an 100% on this assignmnet.
+                       
+ - newsad_final_project: Was the final project for the class. Was to create a form that create a database and table with php code.
+                         Then would take the data and display the information in table. The theme of my website is for Wright State                          Unversity to use for a course evaluations. So you they can get feedback on what students think of there                              classes. Scored an 100% on this assignmnet.
 
