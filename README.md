@@ -18,7 +18,7 @@ Work that I have created that shows the skills I have learned in PHP.
 - newsad_assigment_02: Create a form for the user to enter thier favorite animal by enertering name, a photo, and description of the anima. Used PHP code to create                 mySQL database/table. Once the user clicks on submit button will the display all data from the database using PHP code.
                        Scored an 100% on this assignmnet.
                        
-               <img width="542" alt="Screen Shot 2022-05-11 at 10 20 29 AM" src="https://user-images.githubusercontent.com/56359938/167874268-22d2798d-b784-4e8c-a5b2-784f43d060b1.png">
+<img width="542" alt="Screen Shot 2022-05-11 at 10 20 29 AM" src="https://user-images.githubusercontent.com/56359938/167874268-22d2798d-b784-4e8c-a5b2-784f43d060b1.png">
 
                        
  - newsad_final_project: Was the final project for the class. Was to create a form that create a database and table with php code.
